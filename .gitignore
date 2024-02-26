@@ -1,0 +1,11 @@
+# !--create package json file  using npm init-->
+#  put the except repository files inside node_modules to prepare thr enviroment for java script application 
+# install express express-validator mongoose config multer bcryptjs  jsonwebtokento normalize-url create APIs and validte APPs calls and connect to database
+# and send pic from  client side to save in server side (user profile pic) and decrypt the password  before saving in database> and creat tokens instead of
+# make authenticate between the client and server and normalize the url on server side 
+# npm install -D nodemon concurrently to run the server and accept any update to the server codes without restarted the server or close it back 
+# concurrently to run the server and client using one command 
+# app.listen() () =>{}  to restert the server  and call back function () => to execute after listen function start                                                      > 
+
+
+/node_modules             
